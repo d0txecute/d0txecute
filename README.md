@@ -5,4 +5,4 @@
 - **Hobbies:** Horse Riding | CTF's | Hiking
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0txecute&show_icons=true&theme=cobalt) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0txecute&show_icons=true&theme=dark) 
