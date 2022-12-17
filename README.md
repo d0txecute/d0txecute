@@ -1,7 +1,7 @@
 ## About Me 
 
 - **Major:** BSc Computer Science
-- **Skills:**  Cybersecurity & DFIR | Martial Arts | Medicine | Teaching
+- **Skills:**  Threat Hunting & OSINT | Martial Arts | Medicine | Teaching
 - **Hobbies:** Horse Riding | CTF's | Hiking
 ---
 
